@@ -1,11 +1,11 @@
 # Install From Scratch For Gitpod (v0.10.0) WITH K3S - Cloudflare
 
-###Requirements
+### Requirements
 - Vmware Workstation with Ubuntu Server 20.04.3 LTS (tested) installed
 
 I used one virtual machine. You can use as many workers as you want.
 
-###Installation
+### Installation
 
 *You need to replace _$DOMAIN_ with your own domain name.*
 
